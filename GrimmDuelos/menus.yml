@@ -1,0 +1,72 @@
+Menu-Principal:
+  Lore-Pronto: # Quando já está escolhido
+    - '&aCampo preenchido.'
+  Lore-Preencher: # Quando falta preencher outros
+    - '&cPreencha os outros campos.'
+  Stats:
+    Display: '&aVocê'
+    Lore:
+      - '&7Estatísticas sobre você!'
+      - ''
+      - '&7 Duelos Totais: &6%duelos%'
+      - '&7 Duelos Vencidos: &6%vencidos%'
+      - '&7 KDR de Duelos: &6%kdr%'
+      - ''
+      
+  Adversario:
+    Display: '&aAdversário'
+    Lore:
+      - '&7Escolha o adversário '
+      - '&7para desafiar no duelo!'
+      - ''
+      - '&aClique para digitar.'
+      
+  TipoDeBatalha:
+    Display: '&aTipo de Batalha'
+    Lore:
+      - '&7Escolha um tipo de '
+      - '&7batalha para o seu duelo!'
+      - ''
+      - '&aClique para selecionar.'
+      
+  Desafiar:
+    Display: '&aDesafiar'
+    Lore:
+      - '&7Ao clicar você irá desafiar '
+      - '&a%desafiado% &7para um duelo '
+      - '&7a arena será sorteada!'
+      - ''
+      - '&aClique para iniciar desafio.'
+      
+  Decorrendo:
+    Display: '&aCamarote'
+    Lore:
+      - '&7Está decorrendo uma batalha.'
+      - ''
+      - '&aClique para ir ao camarote.'
+      
+Escolher-Batalha:
+  Livre:
+    Display: '&aLivre'
+    Lore:
+      - '&7Você e o seu adversário'
+      - '&7levarão os seus itens '
+      - '&7para a batalha! '
+      - ''
+      - '&c&l Atenção! &cPoderá perder os seus itens!'
+      - ''
+      - '&aClique para avançar.'
+  FullP4:
+    Display: '&aFull P4'
+    Lore:
+      - '&7Você e o seu adversário'
+      - '&7levarão um set Full P4. '
+      - ''
+      - '&aClique para avançar.'
+  Hand:
+    Display: '&aMão'
+    Lore:
+      - '&7Você e o seu adversário'
+      - '&7levarão o inventário vazio! '
+      - ''
+      - '&aClique para avançar.'

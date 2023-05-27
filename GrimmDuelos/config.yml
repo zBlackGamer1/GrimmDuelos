@@ -1,0 +1,60 @@
+comandos-liberados:
+  - '/tell'
+  - '/r'
+  - '/c'
+  - '/.'
+  - '/g'
+
+mensagem-digit-adversario:
+  - '&aDigite o nick do jogador que deseja desafiar.'
+  - '&aPara cancelar digite &7cancelar&a.'
+mensagem-digit-cancelado: '&cA ação de desafiar jogador para duelo foi cancelada.'
+player-nao-encontrado: '&cEsse jogador não foi encontrado.'
+nao-sorteada: '&cA arena para o duelo ainda não foi sorteada!'
+camarote-tp: '&aVocê foi teleportado para o camarote.'
+nao-desafiado: '&cVocê não tem desafios de duelos pendentes!'
+coletar-itens: '&aVocê tem 15 segundos para coletar os itens.'
+esvaziar-inventario: '&cEsvazie o inventário para entrar no duelo!'
+aviso-itens: '&4§lATENÇÃO! §cCaso vá com itens no inventário serão excluidos!' # Apenas quando é duelo de mão ou full p4.
+nao-pode-cmd: '&cVocê não pode executar este comando em duelos!'
+
+duelo-desafio:
+  - ''
+  - '&7O jogador &a%desafiador% &7desafiou &a%desafiado% &7para duelo &a%tipo%!'
+  - '&7O desafiado tem 60 segundos para &aaceitar &7ou &crecusar &7duelo.'
+  - ''
+
+duelo-ignorado:
+  - ''
+  - '&7O jogador &a%desafiado% &7ignorou o duelo com &a%desafiador%!'
+  - ''
+  
+duelo-recusado:
+  - ''
+  - '&cO jogador &7%desafiado% &crecusou o duelo com &7%desafiador%!'
+  - ''
+
+duelo-aceite:
+  - ''
+  - '&7O jogador &a%desafiado% &7aceitou o duelo com &a%desafiador%!'
+  - '&aSorteando arena automáticamente.'
+  - ''
+
+duelo-acabou-tempo:
+  - ''
+  - '&7O duelo entre &a%desafiador% &7e &a%desafiado% &7terminou!'
+  - '&7O tempo acabou, e não houve nenhum vencedor!'
+  - ''
+  
+duelo-acabou:
+  - ''
+  - '&7O &a%vencedor% &7venceu o duelo contra o &a%perdedor%!'
+  - ''
+
+saida: 'null'
+
+Arenas:
+  Exemplo:
+    Camarote: ''
+    Jogador1: ''
+    Jogador2: ''

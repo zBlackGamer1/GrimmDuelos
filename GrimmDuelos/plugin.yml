@@ -1,0 +1,8 @@
+name: GrimmDuelos
+version: 1.0.0
+author: zBlackGamer
+main: pt.com.GrimmDuelos.Main
+commands:
+  duelo:
+    aliases: [duelos, x1] 
+    description: Comando para desafiar jogador para um duelo.
